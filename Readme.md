@@ -24,7 +24,7 @@ L’objectif de ce projet est modélisé une ville sous forme de graphe pondér�
   
 
 ## Utilisation
-1. Lancer le programme (python .py)
+1. Lancer le programme ("python Projet_Algo_robot_courier.py" dans le terminal )
 2. Choisir les lieux de livraison parmi la liste proposé (écrire le nom de lieux exactement comme indiqué dans la liste)
 3. Choisir d'inclure les fonction optionnelles (o/n)
 4. Choisir les algorithmes à utiliser :
@@ -38,5 +38,6 @@ L’objectif de ce projet est modélisé une ville sous forme de graphe pondér�
 ## Contributeurs
 - Raphaël Maul
 - Alexandre Raffin
+
 
 
